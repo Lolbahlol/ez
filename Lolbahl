@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spoops</title>
+  <style>
+     body {
+    background-color: purple;
+  }
+  </style>
+</head>
+<body>
+  <h1>Hello Universe, or something idk space stuff</h1>
+</body>
+</html>
+ <img src="C:\Users\Elite Desk\PycharmProjects\pythonProject/eeee.jpg" alt="Sus">
+<button><a href="file:///C:/Users/Elite%20Desk/Desktop/Justasecondsite.html">Go to file:///C:/Users/Elite%20Desk/Desktop/Justasecondsite.html</a></button>
+<style>
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border: none;
+      border-radius: 4px;
+    }
+  </style>
+<p> Paraghrab numero 1 <p>
+<p> DeezNuts <p>
+<p> Lol <p>
+<video src="C:\Users\Elite Desk\Desktop\Camera/2023-07-02-030535559.mp4" controls></video>
